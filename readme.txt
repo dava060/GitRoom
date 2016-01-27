@@ -5,5 +5,5 @@ Git tracks changes.
 Creating a new branch is quick and simple and is free
 
 working ......
-
+through IDEA git commit
 
